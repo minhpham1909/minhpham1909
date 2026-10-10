@@ -1,5 +1,6 @@
-## Hi there 👋
-
+Hi, I'm Minh 👋
+I'm Pham Quoc Minh. I've completed the Software Engineering program and capstone project at FPT University — Hanoi Campus and am currently awaiting my diploma.
+My background is in Node.js full-stack development, with hands-on academic project experience in AI integration, workflow design, API testing, and system analysis.
 <!--
 **minhpham1909/minhpham1909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
